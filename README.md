@@ -1,2 +1,2 @@
 # LRU-Cache
-Simple LRU Cache made in Golang
+Simple LRU Cache made in Go.
